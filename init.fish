@@ -1,4 +1,4 @@
-function init -a path --on-event init_eirikurn-git
+function init -a path --on-event init_git
   abbr g 'git status -sb'
   abbr gc 'git commit'
   abbr gca 'git commit -a'
